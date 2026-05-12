@@ -5,7 +5,7 @@
 Hardware et software. Je construis des trucs cools et utiles (ou pas). J'essaie notamment de construire l'environnement augmenté ultime (entre autres). Souveraineté tech française.
 
 ## Projets en cours
-- 🧠 [Jarvis V3](https://github.com/Grominet95/jarvis-OS) - le cerveau de l'écosystème. Assistant IA personnel, copilote au quotidien.
+- 🧠 [Jarvis-OS](https://github.com/Grominet95/jarvis-OS) - le cerveau de l'écosystème. Assistant IA personnel, copilote au quotidien.
 - ⚙️ [Jarvis Skills](https://github.com/Grominet95/jarvis-skills) - l'écosystème modulaire de Jarvis. Chaque skill étend ses capacités.
 - 🌍 [Dashboard Monde](https://github.com/Grominet95/dashboard_monde) - tableau de bord temps réel pour visualiser et comprendre le monde qui nous entoure en un clin d'œil.
 
