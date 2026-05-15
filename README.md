@@ -8,6 +8,7 @@ Hardware et software. Je construis des trucs cools et utiles (ou pas). J'essaie 
 - 🧠 [Jarvis-OS](https://github.com/Grominet95/jarvis-OS) - le cerveau de l'écosystème. Assistant IA personnel, copilote au quotidien.
 - ⚙️ [Jarvis Skills](https://github.com/Grominet95/jarvis-skills) - l'écosystème modulaire de Jarvis. Chaque skill étend ses capacités.
 - 🌍 [Dashboard Monde](https://github.com/Grominet95/dashboard_monde) - tableau de bord temps réel pour visualiser et comprendre le monde qui nous entoure en un clin d'œil.
+- ⌚️ [Garmin-glow-up](https://github.com/Grominet95/garmin-glow-up) - what if Garmin Connect actually looked good?
 
 ## Où je publie
 - 📺 [Barth (Youtube)](https://www.youtube.com/@BarthH95) - objectif : construire des produits et des expériences incroyables, le tout en vidéo.
