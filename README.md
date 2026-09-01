@@ -13,4 +13,4 @@ Hardware et software. Je construis des trucs cools et utiles (ou pas). J'essaie 
 ## Où je publie
 - 📺 [Barth (Youtube)](https://www.youtube.com/@BarthH95) - objectif : construire des produits et des expériences incroyables, le tout en vidéo.
 - 📱 [Impulsion](https://www.instagram.com/impulsion_mediafr/) - média tech francophone. Actu et enjeux.
-- 💬 [Le Labo](https://discord.gg/Up6nMS2zPZ) - communauté maker francophone. 260+ builders qui partagent, apprennent et shippent ensemble.
+- 💬 [Le Labo](https://discord.gg/Up6nMS2zPZ) - communauté maker francophone. 770+ builders qui partagent, apprennent et shippent ensemble.
